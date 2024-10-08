@@ -66,6 +66,10 @@ To get started, ensure you have the following installed:
 - Create a scoring system based on time or accuracy.
 - Add multiplayer options for competitive play!
 
+## 🤔 Fun Fact
+
+Did you know? **The state of Alaska is larger than the next three largest states (Texas, California, and Montana) combined!** It’s a huge state with diverse landscapes and wildlife.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to create a new branch, make your enhancements, and submit a pull request.
